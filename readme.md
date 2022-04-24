@@ -5,7 +5,7 @@ This script seperates `images` and its corresponding `xml` files which are place
 
 ## Use
 ```sh
-git clone https://github.com/chinmay-d/Seperate-img-and-xml
+git clone https://github.com/chinmay-d/Seperate-img-and-xml.git
 
 cd Seperate-img-and-xml
 
